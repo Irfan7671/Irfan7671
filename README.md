@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohammad Irfan N!
 
-💁‍♀ A passionate *<b>Java Full Stack Developer<b>* and *<b>Web Developer<b>* with a strong foundation in building dynamic, responsive, and scalable applications. I enjoy crafting clean code, learning new technologies, and building full-stack solutions.
+💁‍♀ A passionate *Java Full Stack Developer* and *Web Developer* with a strong foundation in building dynamic, responsive, and scalable applications. I enjoy crafting clean code, learning new technologies, and building full-stack solutions.
 
 <hr>
 
