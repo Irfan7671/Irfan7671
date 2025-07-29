@@ -6,7 +6,7 @@
 
 ## 💡 About Me
 
-🎓 Bachelor of Technology (B.Tech).  
+🎓 Bachelor of Technology - (Artificial Intelligence and Machine Learning)  
 💻 I love working on both frontend & backend technologies.  
 📚 Currently enhancing my skills in DSA. 
 
